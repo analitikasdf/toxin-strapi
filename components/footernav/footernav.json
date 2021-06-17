@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_footernav_footernavs",
+  "info": {
+    "name": "footernav",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

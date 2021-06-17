@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_wfwf_footers",
+  "info": {
+    "name": "footer",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "footernav": {
+      "type": "component",
+      "repeatable": true,
+      "component": "footernav.footernav"
+    }
+  }
+}

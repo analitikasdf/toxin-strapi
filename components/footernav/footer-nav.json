@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_footernav_footer_navs",
+  "info": {
+    "name": "footerNav",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
